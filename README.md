@@ -1,1 +1,1 @@
-# video-games-project
+# Video Game Data Science Project
