@@ -1,4 +1,4 @@
-# Video Game Data Science Project
+# Video Games Sale Analysis
 
 ## Data sets
 
