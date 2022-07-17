@@ -1,8 +1,12 @@
-# Video Game Data Science Project
+# Video Games Sale Analysis
+
+Analysis of the video games sales during the period 1980-2016.
+
 
 ## Data sets
 
-- https://www.kaggle.com/datasets/gregorut/videogamesales
+- https://www.kaggle.com/datasets/gregorut/videogamesales (1)
+
 - https://www.kaggle.com/datasets/tamber/steam-video-games
 - https://www.kaggle.com/datasets/arashnic/game-review-dataset
 - https://corgis-edu.github.io/corgis/csv/video_games/
