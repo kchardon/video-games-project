@@ -6,7 +6,9 @@ With this mini-projet, I wanted to enhance my skills in EDA and data visualisati
 
 I used Jupyter notebook through the <a href="https://datalab.sspcloud.fr/home" target="_blank" rel="noopener">SSP Datalab</a> using <a href="https://github.com/InseeFrLab/onyxia" target="_blank" rel="noopener">![Onyxia](https://img.shields.io/static/v1?label=%E2%80%8E&message=Onyxia&color=important&logo=github)</a>.
 
+
 I also made a visualization project using JavaScript, D3.js, HTML and CSS during the <a href="https://www.enseignement.polytechnique.fr/informatique/INF552/" target="_blank" rel="noopener">Data Visualization course</a> from <a href="https://www.polytechnique.edu/" target="_blank" rel="noopener">École Polytechnique</a>. This project is available on <a href="https://vermillion-torrone-322d86.netlify.app/" target="_blank" rel="noopener">Netlify</a>.
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/16fe01a1-9d56-4140-8d75-6efdbab0aa20/deploy-status)](https://app.netlify.com/sites/vermillion-torrone-322d86/deploys)
 
 ## Modules
